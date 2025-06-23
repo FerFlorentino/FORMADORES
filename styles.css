@@ -1,13 +1,21 @@
 body {
-    color: black;
-    background: pink ;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin: 0px;
-}
-header {
-    font-size: 50px;
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-     color: rgb(12, 6, 9);
+  background-color: rgb(224, 28, 182);
+  color: rgb(22, 20, 13);
+  font-family: "Trebuchet MS", "Comic Sans MS", cursive;
+  margin: 0;
 }
 
+header {
+  font-size: 60px;
+  border-bottom: double 5px rgb(238, 12, 125);
+  padding: 6px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+p {
+  font-size: 30px;
+}
